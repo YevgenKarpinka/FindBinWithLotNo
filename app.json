@@ -1,0 +1,26 @@
+{
+  "id": "cd249e9e-28c2-4ff7-b6bd-490742e4f66f",
+  "name": "Find Bin with Lot No",
+  "publisher": "TComTech publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://FindBinwithLotNo.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
